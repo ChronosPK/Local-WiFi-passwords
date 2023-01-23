@@ -20,3 +20,17 @@ Automat the process of Wi-Fi password extraction with nice display.
 
 ### Windows Host
 ![wifi-win](https://user-images.githubusercontent.com/93029180/214041390-3a16631a-991a-4827-8968-22df7520d149.png)
+
+<br>
+<br>
+
+## Check the scripts
+[Linux](https://github.com/ChronosPK/WiFI_locally_extract_passwords/blob/main/Linux%20host%20-%20command.md)
+<br>
+[Windows](https://github.com/ChronosPK/WiFI_locally_extract_passwords/blob/main/Windows%20host%20-%20command.md)
+
+<br>
+
+## Check out the downoadable binaries
+[Releases](https://github.com/ChronosPK/WiFI_locally_extract_passwords/releases)
+<br>
