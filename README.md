@@ -1,7 +1,7 @@
-# Extract all Wi-Fi passwords from local computer (Windows + Linux) 
+# Extract all Wi-Fi passwords from local computer (Windows + Linux)  
 
 ```
-Automating the process of WiFi password extraction, result being formated in a nice display. 
+Automat the process of Wi-Fi password extraction with nice display. 
 ```
 
 <br>
