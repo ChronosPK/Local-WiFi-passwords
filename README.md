@@ -13,24 +13,19 @@ Automat the process of Wi-Fi password extraction with nice display.
 
 <br>
 
-### Linux Host
-<img src="https://user-images.githubusercontent.com/93029180/214041278-82b2564f-fd4f-49be-954a-4845aee5222d.png" width="2000">
+## Check out the scripts and downloadable binaries 
 
+|Scripts|Binaries|
+|-------|--------|
+|[Linux script](https://github.com/ChronosPK/WiFI_locally_extract_passwords/blob/main/Linux%20host%20-%20command.md)|[Linux binary](https://github.com/ChronosPK/WiFI_locally_extract_passwords/releases/tag/linux)|
+|[Windows script](https://github.com/ChronosPK/WiFI_locally_extract_passwords/blob/main/Windows%20host%20-%20command.md)|[Windows executable](https://github.com/ChronosPK/WiFI_locally_extract_passwords/releases/tag/windows)|
+
+<br>
+
+### Linux Host
+<img src="https://user-images.githubusercontent.com/93029180/214041278-82b2564f-fd4f-49be-954a-4845aee5222d.png" width="700">
 <br>
 
 ### Windows Host
-![wifi-win](https://user-images.githubusercontent.com/93029180/214041390-3a16631a-991a-4827-8968-22df7520d149.png)
-
-<br>
-<br>
-
-## Check the scripts
-[Linux](https://github.com/ChronosPK/WiFI_locally_extract_passwords/blob/main/Linux%20host%20-%20command.md)
-<br>
-[Windows](https://github.com/ChronosPK/WiFI_locally_extract_passwords/blob/main/Windows%20host%20-%20command.md)
-
-<br>
-
-## Check out the downoadable binaries
-[Releases](https://github.com/ChronosPK/WiFI_locally_extract_passwords/releases)
+<img src="https://user-images.githubusercontent.com/93029180/214041390-3a16631a-991a-4827-8968-22df7520d149.png" width="700">
 <br>
