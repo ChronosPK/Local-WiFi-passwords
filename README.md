@@ -1,6 +1,6 @@
 # Extract all Wi-Fi passwords from local computer (Windows + Linux)  
 ```
-Automate the process of Wi-Fi password extraction with nice display. 
+Automate the process of Wi-Fi password extraction with a nice display. 
 ```
 <br>
 
@@ -14,9 +14,9 @@ Automate the process of Wi-Fi password extraction with nice display.
 <br>
 
 ### How could you make use of these scripts? (ethically, of course)
-- incorporated in a Rubber Ducky USB
-- copy script to an USB and run it when noone is watching
-- copy the script from here directly
+- Incorporate it in a Rubber Ducky USB
+- Copy the script to a USB and run it when no one is watching
+- Copy the script from here directly
 
 <br>
 
